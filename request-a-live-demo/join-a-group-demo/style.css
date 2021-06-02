@@ -1,0 +1,31 @@
+body{font-family:calibri;}
+#calendar-outer{width:574px;}
+#calendar-outer ul{margin:0;padding:0 0 30px;}
+#calendar-outer ul li{margin:0;padding:0;list-style-type:none;}
+.prev{display:inline-block;float:left;cursor:pointer;}
+.next{display:inline-block;float:right;cursor:pointer;}
+:focus{outline:0;}
+button:focus{outline:0!important;}
+div.calendar-nav{background-color:#fff;border-radius:0;text-align:center;padding:17px 28px;color:#4a4a4a;box-sizing:border-box;font-weight:700;}
+#calendar-outer .week-name-title li{display:inline-block;padding:10px 27px;color:#90918b;font-size:.95em;font-weight:600;}
+.week-day-cell li{display:inline-block;width:82px;height:60px;text-align:center;line-height:60px;vertical-align:middle;background-color:#fff;color:#4a4a4a;border:none;border-radius:0;font-size:1.2em;}
+#body-overlay {background-color: rgba(0, 0, 0, 0.6);z-index: 999;position: absolute;left: 0;top: 0;width: 100%;height: 100%;display: none;}
+#body-overlay div {position:absolute;left:50%;top:50%;margin-top:-32px;margin-left:-32px;}
+#timeSection{display:block;height:100%;background:#fff;}
+#showSlot{bottom:10px;left:20px;max-width:150px;width:100%;padding:10px;text-align:center;}
+.fill-contact-frm{height:100%;background:#fff;padding:50px 60px;}
+.fill-contact-frm form label{display:block;color:#4a4a4a;font-size:16px;font-weight:600;}
+.fill-contact-frm form input{width:100%;border:1px solid rgb(248 248 248);padding:12px 14px;font-size:16px;background:#f8f8f8;}
+.fill-contact-frm form input:focus{background:0 0;border:1px solid #f79929;}
+.fill-contact-frm form button{margin-top:30px;}
+#infoSeat{color:#f79929;}
+.confirm-box-section{max-width:1140px;width:100%;background:#f8f8f8;padding:40px 0;}
+.add-clnd{display:block;height:4px;width:60px;background:#f79929;margin:20px 0;}
+.confirm-box-section a{color:#f79929;text-decoration:underline;}
+.confirm-box-section a:hover{text-decoration:none;}
+#required_msg{color:red;margin-top:15px;}
+.group-required{color:red;}
+@media (min-width:300px) and (max-width:767px){#timeSection{overflow:scroll;}
+.fill-contact-frm{padding:30px 30px;}}
+@media (min-width:768px) and (max-width:991px){.fill-contact-frm{padding:50px 30px;}}
+@media (min-width:992px) and (max-width:1199px){#timeSection{overflow:scroll;}}

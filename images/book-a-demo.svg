@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="27" viewBox="0 0 187 27">
+  <g id="Group_400" data-name="Group 400" transform="translate(-465 -3051)">
+    <text id="BOOK_A_DEMO" data-name="BOOK A DEMO" transform="translate(465 3072)" fill="#fff" font-size="22" font-family="Roboto-Medium, Roboto" font-weight="500" letter-spacing="0.02em"><tspan x="0" y="0">BOOK A DEMO</tspan></text>
+    <g id="Group_399" data-name="Group 399" transform="translate(-3 -38)">
+      <circle id="Ellipse_1" data-name="Ellipse 1" cx="12" cy="12" r="12" transform="translate(631 3090)" fill="#fff"/>
+      <g id="next_1_" data-name="next (1)" transform="translate(639.71 3096.222)">
+        <path id="Path_67" data-name="Path 67" d="M118.273,5.277,113.087.092a.311.311,0,1,0-.44.44L117.612,5.5l-4.964,4.964a.312.312,0,0,0,.219.532.3.3,0,0,0,.219-.092l5.185-5.185A.309.309,0,0,0,118.273,5.277Z" transform="translate(-112.556 0)" fill="#0f75bd" stroke="#0f75bd" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
