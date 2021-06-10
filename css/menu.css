@@ -12,9 +12,9 @@ header.light nav{background-color:rgba(0,0,0,.5);}
 ul.main-nav{list-style-type:none;padding:0;font-size:0;max-width:1000px;margin:0 auto;}
 ul.main-nav>li{display:inline-block;padding:0;}
 ul.main-nav>li>a{display:block;padding:20px 30px;position:relative;color:#38454F;font-size:16px;font-weight:500;box-sizing:border-box;}
-ul.main-nav>li:hover>a{color:#E85E1D;font-weight:500;text-decoration:none}
+ul.main-nav>li:hover>a{color:#101517;font-weight:500;text-decoration:none}
 ul.main-nav>li a.mega-menu{position:relative}
-ul.main-nav>li:hover a.mega-menu:after{content:'';height:5px;background:#E85E1D;position:absolute;width:110px;bottom:0;left:0;top:67px;right:0;margin:0 auto;}
+ul.main-nav>li:hover a.mega-menu:after{content:'';height:5px;background:#101517;position:absolute;width:110px;bottom:0;left:0;top:67px;right:0;margin:0 auto;}
 ul.main-nav>li ul.sub-menu-lists{margin:0;padding:0;list-style-type:none;display:block;}
 ul.main-nav>li ul.sub-menu-lists>li{padding:2px 0;}
 .ic{position:fixed;cursor:pointer;display:inline-block;right:25px;width:32px;height:24px;text-align:center;top:0;outline:0;}
@@ -65,7 +65,7 @@ ul.main-nav>li>div.sub-menu-block>*{-webkit-transition-property:opacity;-moz-tra
 ul.main-nav>li:hover>div.sub-menu-block>*{opacity:1;}
 ul.main-nav>li>a.mega-menu>span{display:block;vertical-align:middle;}
 ul.main-nav>li>a.mega-menu>span:after{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid #38454f;content:'';background-color:transparent;display:inline-block;margin-left:10px;vertical-align:middle;}
-ul.main-nav>li:hover>a.mega-menu span:after{border-left:5px solid transparent;border-right:5px solid transparent;border-top:0 solid transparent;border-bottom:5px solid #E85E1D;}
+ul.main-nav>li:hover>a.mega-menu span:after{border-left:5px solid transparent;border-right:5px solid transparent;border-top:0 solid transparent;border-bottom:5px solid #101517;}
 .banners-area{border-top:1px solid #ccc;}}
 @media (min-width:769px) and (max-width:991px){.logo-box{max-width:150px;}
 .header-menu{max-width:840px;}
